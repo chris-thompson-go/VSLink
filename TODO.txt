@@ -1,0 +1,11 @@
+1) Add languages
+
+2) Paste undo doesn't work
+
+3) have link text box provide shell (filename) intellisense (help)
+
+4) Some inconsistencies when creating a new file
+	not tab down file not created
+	file not able to be created doesn't give indication
+
+5) Maybe put status bar to the right of the text bar

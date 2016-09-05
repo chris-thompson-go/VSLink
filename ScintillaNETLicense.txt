@@ -1,0 +1,3 @@
+﻿The ScintillaNET project and license can be found on github:
+
+https://github.com/jacobslusser/ScintillaNET
