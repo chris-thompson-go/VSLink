@@ -1,14 +1,14 @@
-1) Github
 
-2) Add languages
+1) Add languages
 
-3) Paste undo doesn't work
+2) Paste undo doesn't work
 
-4) have link text box provide shell (filename) intellisense (help)
+3) have link text box provide shell (filename) intellisense (help)
 
-5) Some inconsistencies when creating a new file
+4) Some inconsistencies when creating a new file
 	not tab down file not created
 	file not able to be created doesn't give indication
 
-6) Maybe put status bar to the right of the text bar
+5) Maybe put status bar to the right of the text bar
 
+6) Can I use the built-in editor?

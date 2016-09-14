@@ -132,6 +132,9 @@ PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
     <Resource Include="Inspiration.txt" />
     <Resource Include="TODO.txt" />
     <Resource Include="VSLink1.png" />
+    <Content Include="ReleaseNotes.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="VsLinkDemo.JPG">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
