@@ -13,7 +13,7 @@ PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
   <Metadata>
     <Identity Id="VsLink.D2514416-22B5-4BF9-B7B2-AE8B07EA2DF4" Version="0.7" Language="en-US" Publisher="Chris Thompson" />
     <DisplayName>VSLink</DisplayName>
-    <Description xml:space="preserve">A Visual Studio extension for adding linked files to a solution.</Description>
+    <Description xml:space="preserve">A Visual Studio extension for linked files.</Description>
     <License>License.txt</License>
     <Icon>vslink.png</Icon>
     <PreviewImage>VsLinkDemo.JPG</PreviewImage>
