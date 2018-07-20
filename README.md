@@ -1,5 +1,5 @@
 # VSLink
-VSLink is a Visual Studio 2015 extension for linked files.
+(Deprecated) VSLink is a Visual Studio 2015 extension for linked files.
 
 <a href="https://marketplace.visualstudio.com/items?itemName=christhompsongo.VSLink">VSLink in Visual Studio Gallery</a>
 
